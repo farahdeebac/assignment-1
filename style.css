@@ -1,5 +1,5 @@
-.mission{
-    color: rgb(70, 153, 153)
+.stay-focused{
+    color: rgb(70, 153, 153);
 }
 body{
     font-family: 'Lobster',
@@ -20,6 +20,7 @@ h1{
 h2{
     font-size: 50px;
     padding-left: 15px;
+    color: rgb(70, 153, 153)
 }
 p{
     font-size: 30px;
@@ -46,7 +47,7 @@ p{
 h3{
     font-size: 20px;
     font-weight: 500;
-    margin-top: 90px;
+    margin-top: 100px;
 }
 .flexible-container{
     display: flex;
@@ -54,14 +55,62 @@ h3{
 }
 .half-width{
     width: 50%;
-    padding-left: 80px;
+    padding-left: 100px;
 }
 .half-width-image{
     width: 40%;
+    height: 600px;
+    
 
     
 }
 img{
     width: 80%;
     height: 100%;
+}
+.mission{
+    text-align: center;
+}
+.cyan{
+    color:rgb(70, 153, 153) ;
+}
+.box-1{
+    border: 5px Solid rgb(220, 243, 243) ;
+    background-color:rgb(220, 243, 243) ;
+    border-radius: 20px;
+    width: 1200px;
+    padding-left: 25px;
+    padding-right: 25px;
+    margin-right: 20px;
+    margin-left: 30px;
+    text-align:justify;
+    height: 700px;
+}
+.box-2{
+    border: 5px Solid rgb(231, 252, 208) ;
+    background-color:rgb(231, 252, 208) ;
+    border-radius: 20px;
+    width: 530px; 
+    padding-left: 25px;
+    padding-right: 25px;
+    margin-right: 20px;
+    margin-left: 30px;
+    text-align:justify;
+   
+    
+}
+.box-3{
+    border: 5px Solid rgb(248, 230, 250);
+    background-color:rgb(248, 230, 250) ;
+    border-radius: 20px;
+    width: 1040px
+    padding-left: 35px;
+    padding-right: 25px;
+    margin-right: 30px;
+    margin-left: 30px;
+    text-align:justify;
+    height: 710px;
+}
+.image{
+    width: 300px;
 }
