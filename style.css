@@ -1,0 +1,67 @@
+.mission{
+    color: rgb(70, 153, 153)
+}
+body{
+    font-family: 'Lobster',
+    
+}
+.border-line{
+    border-left: 4px solid;
+    border-image: linear-gradient(rgb(48, 18, 48), rgb(182, 248, 248));
+    border-image-slice: 1;
+    
+
+    
+}
+h1{
+    font-size: 55px;
+    padding-left: 15px;
+}    
+h2{
+    font-size: 50px;
+    padding-left: 15px;
+}
+p{
+    font-size: 30px;
+    
+}
+#list-font{
+    font-size: 20px; 
+    font-weight: 600;
+    
+}
+.a-link{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(56, 117, 117), rgb(180, 247, 247));
+    color: white;
+    font-weight: 700;
+    padding: 10px 40px;
+    border-radius: 5px;
+    position: absolute;
+    margin-top: 20px;    
+    
+    
+
+}
+h3{
+    font-size: 20px;
+    font-weight: 500;
+    margin-top: 90px;
+}
+.flexible-container{
+    display: flex;
+    margin-top: 50px; 
+}
+.half-width{
+    width: 50%;
+    padding-left: 80px;
+}
+.half-width-image{
+    width: 40%;
+
+    
+}
+img{
+    width: 80%;
+    height: 100%;
+}
