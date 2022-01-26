@@ -66,13 +66,31 @@ h3{
     height: 600px;
 }
 .half-width-image2{
-    padding-left: 100px;
-    margin-left: 1%;
+    padding-left: 90px;
+    margin-left: 0%;
+    width: 80%;
+
+}
+.half-width-image3{
+   margin-left: 16%;
+   height: 90%; 
+   width: 75%
+    
+    
+ 
 }
 .half-width2{
     margin-right: 2%;
 }
-
+.half-width3{
+    padding-left: 90px;
+    padding-right: 50px;
+    margin-right: 5%;
+    width: 90%
+    
+    
+    
+}
 img{
     width: 80%;
     height: 100%;
@@ -125,7 +143,17 @@ img{
     width: 300px;
 }
 .banner{
-    background-image: url(mission-2022-main/images/shapes/dream-bg.png);
+    background-image: url(mission-2022-main/images/shapes/shape-1.png);
     background-repeat: no-repeat;
+    background-size: 200px ;
+    background-position: 0% 20%;
+}
+.side-banner{
+    background-image: url(mission-2022-main/images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: right bottom;
+    background-size: 150px;
+    margin-right: 3%;
+    margin-bottom: 5%;
 }
 
