@@ -1,6 +1,9 @@
 .stay-focused{
     color: rgb(70, 153, 153);
 }
+span{
+    color:rgb(70, 153, 153) ;
+}
 body{
     font-family: 'Lobster',
     
@@ -87,8 +90,16 @@ h3{
     padding-right: 50px;
     margin-right: 5%;
     width: 90%
-    
-    
+}
+.image4{
+    margin-right: 5%;
+    margin-left: 5%;
+    width: 60%;
+}
+.half-width4{
+    margin-left: 2%;
+    margin-right: 2%;
+    width: 70%;
     
 }
 img{
@@ -156,4 +167,10 @@ img{
     margin-right: 3%;
     margin-bottom: 5%;
 }
-
+footer{
+   margin-top: 15%;
+   padding-top: 10px;
+   padding-bottom: 10px;
+   text-align: center;
+   background-color: rgb(250, 236, 211);
+}
